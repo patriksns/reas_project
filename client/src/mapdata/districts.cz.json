@@ -1,0 +1,172 @@
+[
+    {
+        "id": "CZ020",
+        "name": "Středočeský kraj",
+        "districts": [
+            {"id": "BN", "name": "Benešov"},
+            {"id": "BE", "name": "Beroun"},
+            {"id": "KL", "name": "Kladno"},
+            {"id": "KO", "name": "Kolín"},
+            {"id": "KH", "name": "Kutná Hora"},
+            {"id": "ME", "name": "Mělník"},
+            {"id": "MB", "name": "Mladá Boleslav"},
+            {"id": "NB", "name": "Nymburk"},
+            {"id": "PY", "name": "Praha-východ"},
+            {"id": "PZ", "name": "Praha-západ"},
+            {"id": "PB", "name": "Příbram"},
+            {"id": "RA", "name": "Rakovník"}
+        ]
+    },
+    {
+        "id": "CZ031",
+        "name": "Jihočeský kraj",
+        "districts": [
+            {"id": "CB", "name": "České Budějovice"},
+            {"id": "CK", "name": "Český Krumlov"},
+            {"id": "JH", "name": "Jindřichův Hradec"},
+            {"id": "PI", "name": "Písek"},
+            {"id": "PT", "name": "Prachatice"},
+            {"id": "ST", "name": "Strakonice"},
+            {"id": "TA", "name": "Tábor"}
+        ]
+    },
+    {
+        "id": "CZ032",
+        "name": "Plzeňský kraj",
+        "districts": [
+            {"id": "DO", "name": "Domažlice"},
+            {"id": "KT", "name": "Klatovy"},
+            {"id": "PN", "name": "Plzeň-jih"},
+            {"id": "PM", "name": "Plzeň-město"},
+            {"id": "PS", "name": "Plzeň-sever"},
+            {"id": "RO", "name": "Rokycany"},
+            {"id": "TA", "name": "Tachov"}
+        ]
+    },
+    {
+        "id": "CZ041",
+        "name": "Karlovarský kraj",
+        "districts": [
+            {"id": "CH", "name": "Cheb"},
+            {"id": "KA", "name": "Karlovy Vary"},
+            {"id": "SO", "name": "Sokolov"}
+        ]
+    },
+    {
+        "id": "CZ042",
+        "name": "Ústecký kraj",
+        "districts": [
+            {"id": "DC", "name": "Děčín"},
+            {"id": "CH", "name": "Chomutov"},
+            {"id": "LI", "name": "Litoměřice"},
+            {"id": "LO", "name": "Louny"},
+            {"id": "MT", "name": "Most"},
+            {"id": "TE", "name": "Teplice"},
+            {"id": "UL", "name": "Ústí nad Labem"}
+        ]
+    },
+    {
+        "id": "CZ051",
+        "name": "Liberecký kraj",
+        "districts": [
+            {"id": "CL", "name": "Česká Lípa"},
+            {"id": "JB", "name": "Jablonec nad Nisou"},
+            {"id": "LI", "name": "Liberec"},
+            {"id": "SM", "name": "Semily"}
+        ]
+    },
+    {
+        "id": "CZ052",
+        "name": "Královéhradecký kraj",
+        "districts": [
+            {"id": "HK", "name": "Hradec Králové"},
+            {"id": "JI", "name": "Jičín"},
+            {"id": "NA", "name": "Náchod"},
+            {"id": "RK", "name": "Rychnov nad Kněžnou"},
+            {"id": "TN", "name": "Trutnov"}
+        ]
+    },
+    {
+        "id": "CZ053",
+        "name": "Pardubický kraj",
+        "districts": [
+            {"id": "CR", "name": "Chrudim"},
+            {"id": "PA", "name": "Pardubice"},
+            {"id": "SV", "name": "Svitavy"},
+            {"id": "UO", "name": "Ústí nad Orlicí"}
+        ]
+    },
+    {
+        "id": "CZ063",
+        "name": "Kraj Vysočina",
+        "districts": [
+            {"id": "HB", "name": "Havlíčkův Brod"},
+            {"id": "JI", "name": "Jihlava"},
+            {"id": "PE", "name": "Pelhřimov"},
+            {"id": "TR", "name": "Třebíč"},
+            {"id": "ZA", "name": "Žďár nad Sázavou"}
+        ]
+    },
+    {
+        "id": "CZ064",
+        "name": "Jihomoravský kraj",
+        "districts": [
+            {"id": "BL", "name": "Blansko"},
+            {"id": "BR", "name": "Brno-město"},
+            {"id": "BV", "name": "Brno-venkov"},
+            {"id": "BC", "name": "Břeclav"},
+            {"id": "HO", "name": "Hodonín"},
+            {"id": "VY", "name": "Vyškov"},
+            {"id": "ZM", "name": "Znojmo"}
+        ]
+    },
+    {
+        "id": "CZ071",
+        "name": "Olomoucký kraj",
+        "districts": [
+            {"id": "JE", "name": "Jeseník"},
+            {"id": "OL", "name": "Olomouc"},
+            {"id": "PR", "name": "Přerov"},
+            {"id": "PV", "name": "Prostějov"},
+            {"id": "SU", "name": "Šumperk"}
+        ]
+    },
+    {
+        "id": "CZ072",
+        "name": "Zlínský kraj",
+        "districts": [
+            {"id": "KM", "name": "Kroměříž"},
+            {"id": "UH", "name": "Uherské Hradiště"},
+            {"id": "VS", "name": "Vsetín"},
+            {"id": "ZL", "name": "Zlín"}
+        ]
+    },
+    {
+        "id": "CZ080",
+        "name": "Moravskoslezský kraj",
+        "districts": [
+            {"id": "BR", "name": "Bruntál"},
+            {"id": "FM", "name": "Frýdek-Místek"},
+            {"id": "KA", "name": "Karviná"},
+            {"id": "NJ", "name": "Nový Jičín"},
+            {"id": "OP", "name": "Opava"},
+            {"id": "OS", "name": "Ostrava-město"}
+        ]
+    },
+    {
+        "id": "CZ010",
+        "name": "Hlavní město Praha",
+        "districts": [
+            {"id": "PR1", "name": "Praha 1"},
+            {"id": "PR2", "name": "Praha 2"},
+            {"id": "PR3", "name": "Praha 3"},
+            {"id": "PR4", "name": "Praha 4"},
+            {"id": "PR5", "name": "Praha 5"},
+            {"id": "PR6", "name": "Praha 6"},
+            {"id": "PR7", "name": "Praha 7"},
+            {"id": "PR8", "name": "Praha 8"},
+            {"id": "PR9", "name": "Praha 9"},
+            {"id": "PR10", "name": "Praha 10"}
+        ]
+    }
+]
